@@ -31,6 +31,9 @@ www.mrreiaz.com
 I Am Rich is a 2008 mobile app for iPhones which had minimal function and was priced at US$999.99 (equivalent to $1,359 in 2022). The app was pulled from the App Store less than 24 hours after its launch. Receiving poor reviews from critics, only eight copies were sold. In the years since, several similar applications have been released at lower prices.
 <br >
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/I_Am_Rich_sale_screen.png/220px-I_Am_Rich_sale_screen.png" width="50%"/>
-
-
-
+<br >
+As a beginner Flutter developer I recreate that apps.
+<br >
+<img src="images/i-phone.png" width="50%" alt="hi">
+<br >
+<img src="images/pixel7.png" width="50%" alt="hi">
