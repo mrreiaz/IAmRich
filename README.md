@@ -28,3 +28,6 @@ www.mrreiaz.com
 
 
 # I Am rich App
+
+<h3 style="text-align: center;">H3 that is center aligned</h3>
+
