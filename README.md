@@ -23,5 +23,5 @@ I'm Abdul Halim Reiaz, You can Call me MrReiaz, a Full Stack Web and Mobile Appl
 :email: &emsp;infreiaz@gmail.com
 
 #### Visits My Website
+&emsp;www.mrreiaz.com
 
-:web: &emsp;www.mrreiaz.com
