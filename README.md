@@ -35,8 +35,8 @@ I Am Rich is a 2008 mobile app for iPhones which had minimal function and was pr
 </p>
 
 <br >
-## As a beginner Flutter developer I recreate that apps.
-<br >
+# As a beginner Flutter developer I recreate that apps.
+<br ><br ><br >
 
 <figure>
     <p align="center">
