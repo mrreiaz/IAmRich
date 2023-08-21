@@ -9,6 +9,25 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Placeholder();
+    return MaterialApp(
+      debugShowCheckedModeBanner: false,
+      home: Scaffold(
+        appBar: AppBar(
+          backgroundColor: Colors.red,
+          title: const Center(
+            child: Text(
+              'I AM RICH',
+              style:
+                  TextStyle(color: Colors.white, fontWeight: FontWeight.bold),
+            ),
+          ),
+        ),
+        body: Container(
+          child: Center(
+            child: Image.asset('images/dimond.png'),
+          ),
+        ),
+      ),
+    );
   }
 }
