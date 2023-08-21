@@ -42,12 +42,12 @@ I Am Rich is a 2008 mobile app for iPhones which had minimal function and was pr
 <div class="row">
   <div class="column">
     <p align="center">
-        <img src="images/i-phone.png" width="100%" alt="I am reach">
+        <img src="images/i-phone.png" width="50%" alt="I am reach">
     </p>
   </div>
   <div class="column">
     <p align="center">
-        <img src="images/pixel7.png" width="100%" alt="i am reach">
+        <img src="images/pixel7.png" width="50%" alt="i am reach">
     </p>
   </div>
 </div>
