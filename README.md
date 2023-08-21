@@ -1,4 +1,4 @@
-![Github Banner](images/pixel7.png)
+![Github Banner](readme-asset/mrreiaz-.png)
 
 ## Hello ! My Gorgeous and Lovely Friend <img src="assets/hello.gif" width="40px" alt="hi">
 
