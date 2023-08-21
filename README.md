@@ -42,12 +42,16 @@ I Am Rich is a 2008 mobile app for iPhones which had minimal function and was pr
     <p align="center">
         <img src="images/i-phone.png" width="50%" alt="mrreiaz">
     </p>
-    <figcaption>Fig.1 - Iphone App</figcaption>
+    <p align="center">
+        <figcaption>Fig.1 - Iphone App.</figcaption>
+    </p>
 </figure>
 
 <figure>
     <p align="center">
         <img src="images/pixel7.png" width="50%" alt="mrreiaz">
     </p>
-    <figcaption>Fig.2 Android App.</figcaption>
+    <p align="center">
+        <figcaption>Fig.2 Android App.</figcaption>
+    </p>
 </figure>
