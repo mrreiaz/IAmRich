@@ -2,7 +2,7 @@
 
 ## Hello ! My Gorgeous and Lovely Friend <img src="readme-asset/hello.gif" width="40px" alt="hi">
 
-I'm Abdul Halim Reiaz, You can Call me MrReiaz, a Full Stack Web and Mobile Application Developer from <img src="readme-asset/bangladesh.png" width="18"/>. Now Live in Japan <img src="readme-asset/japan.png" width="18"/> and Content Creator on [Youtube](https://www.youtube.com/c/MrReiaz?sub_confirmation=1) and [Facebook](https://www.facebook.com/mrreiaz23). I Spend most of time read different types of books and learn different types of coding and programing concepts and recording YouTube Videos.
+I'm Abdul Halim Reiaz, You can Call me MrReiaz, a Full Stack Web and Mobile Application Developer from <img src="readme-asset/bangladesh.png" width="18"/>. Now Live in Japan <img src="readme-asset/japan.png" width="18"/> and One of the Popular Content Creator on [Youtube](https://www.youtube.com/c/MrReiaz?sub_confirmation=1) and [Facebook](https://www.facebook.com/mrreiaz23). I Spend most of time read different types of books and learn different types of coding and programing concepts and recording YouTube Videos.
 
 :coffee: &emsp;Connect with me!
 
