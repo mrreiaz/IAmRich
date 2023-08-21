@@ -37,13 +37,15 @@ I Am Rich is a 2008 mobile app for iPhones which had minimal function and was pr
 <br >
 ## As a beginner Flutter developer I recreate that apps.
 <br >
-
-<figure>
-    <img src="images/i-phone.png" width="50%" alt="hi">
-  <figcaption>Fig.1 - Iphone App</figcaption>
-</figure>
-
-<figure>
-    <img src="images/pixel7.png" width="50%" alt="hi">
-  <figcaption>Fig.2 Android App.</figcaption>
-</figure>
+<p align="center">
+    <figure>
+        <img src="images/i-phone.png" width="50%" alt="mrreiaz">
+      <figcaption>Fig.1 - Iphone App</figcaption>
+    </figure>
+    </p>
+<p align="center">
+    <figure>
+        <img src="images/pixel7.png" width="50%" alt="mrreiaz">
+      <figcaption>Fig.2 Android App.</figcaption>
+    </figure>
+</p>
